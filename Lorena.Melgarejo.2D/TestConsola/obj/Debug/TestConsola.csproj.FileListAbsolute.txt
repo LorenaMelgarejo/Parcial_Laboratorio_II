@@ -1,0 +1,10 @@
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\lola_\OneDrive\Escritorio\PP_Laboratorio_II\Parcial.V4\Lorena.Melgarejo.2D\TestConsola\obj\Debug\TestConsola.pdb

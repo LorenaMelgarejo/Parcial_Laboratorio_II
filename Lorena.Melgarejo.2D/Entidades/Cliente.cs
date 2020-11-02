@@ -14,6 +14,7 @@ namespace Entidades
 
         #region Constructores
 
+        
         /// <summary>
         /// Inicializa los atributos de Cliente
         /// </summary>
@@ -104,6 +105,11 @@ namespace Entidades
             return !(clienteUno == clienteDos);
         }
 
+        public static implicit operator string(Cliente auxCliente)
+        {
+
+            return auxCliente.Nombre;
+        }
 
         #endregion
     }
